@@ -1,0 +1,7 @@
+library(ggplot2)
+install.packages("ggthemes")
+install.packages("tm")
+install.packages("Snowball")
+library(Snowball)
+install.packages("RWeka")
+library(RWeka)
